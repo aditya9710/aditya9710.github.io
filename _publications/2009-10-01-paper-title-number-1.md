@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Introducing a paper-based programming language for computing education in classrooms"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+<!-- permalink: /publication/2009-10-01-paper-title-number-1 -->
+<!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
+date: 2020-06-15
+venue: 'ITiCSE ’20. pp. 180–186. ACM (Jun 2020)'
+paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3341525.3387402'
+citation: 'Mehrotra, A., Giang, C., Duruz, N., Dedelley, J., Mussati, A., Skweres, M., Mondada, F.: "Introducing a Paper-Based Programming Language for Computing Education in Classrooms." In: <i> ITiCSE ’20. pp. 180–186. ACM (Jun 2020) </i>. https://doi.org/10.1145/3341525.3387402'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://dl.acm.org/doi/pdf/10.1145/3341525.3387402)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Mehrotra, A., Giang, C., Duruz, N., Dedelley, J., Mussati, A., Skweres, M., Mondada, F.: "Introducing a Paper-Based Programming Language for Computing Education in Classrooms." In: <i> ITiCSE ’20. pp. 180–186. ACM (Jun 2020) </i>. https://doi.org/10.1145/3341525.3387402
