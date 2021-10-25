@@ -85,7 +85,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Worcester, MA, USA"
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : false # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=uv9ZJv8AAAAJ&hl=en"
   email            :
   researchgate     :  https://www.researchgate.net/profile/Aditya-Mehrotra # example: "https://www.researchgate.net/profile/yourprofile"
