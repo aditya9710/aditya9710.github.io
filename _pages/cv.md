@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Mechanical Engineering , Manipal Academy of Higher Education, 2015
-* M.Sc. in Robotics, Worcester Polytechnic Institute , 2023
+* B.Tech. in Mechanical Engineering, Manipal Academy of Higher Education, 2015
+* M.Sc. in Robotics, Worcester Polytechnic Institute, 2023
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Robotics Engineer                     Miko – Mumbai, India                        April – August 2021
+* Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
