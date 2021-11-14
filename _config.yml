@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Aditya Mehrotra"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Aditya Mehrotra"
 description              : &description "MSc Robotics Student"
 url                      : https://aditya9710.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aditya Mehrotra"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Robotics Graduate Student"
   location         : "Worcester, MA, USA"
   employer         :
   pubmed           : false # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
