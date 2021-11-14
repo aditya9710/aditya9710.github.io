@@ -17,33 +17,81 @@ Education
 
 Work experience
 ======
-* Robotics Engineer                     Miko – Mumbai, India                        April – August 2021
-* Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Robotics Engineer
+  * Miko 
+  * Mumbai, India: April – August 2021
+    * Simulated Robot Motion, RGB Controller, Display, ToF modules of the two product versions of an autonomous social robot on Webots
+    * Implemented PID control and Odometry on the robot 
+    * Added modules and maintained a Java-based utility software
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Junior Robotics Engineer																							  
+* BaseApp Systems
+  * Delhi, India: Mar - Apr 2021
+  * Startup for Embedded Systems & Warehouse Robotics
+    * Explored Navigation Stack in ROS running on Raspberry Pi
+    * Prepared test guided path designs for Autonomous Guided Vehicles in warehouse environment
+    * Implemented an SMTP Server
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Visiting Research Assistant & Scientific Collaborator
+  * École Polytechnique Fédérale de Lausanne & University of Applied Sciences and Arts of Southern Switzerland
+  * Lausanne, Switzerland: Sep 2019 - Aug 2020
+    * Developed a Computer Vision-based tangible programming platform 
+    * Created an inexpensive Maker-based Educational Robot
+    * Designed & analyzed experimental studies, published multiple scientific papers
   
 Skills
 ======
 * Robotics:
+  *  ROS
   *  OpenCV
   *  Matlab
   *  Linux Operating System
+  *  Sci-Kit Learn
+  *  Webots
+  *  Blender
+  *  CoppeliaSim
+  *  Unity 3D
+
 * Programming Languages
   * C++
   * Python
-  * Sub-skill 2.3
-* Skill 3
+  * Java
+  * C#
+  * C
+  * Git
+  * Visual Basic
+  * HTML
+
+* Engineering
+  * Fusion 360
+  * SolidWorks
+  * CATIA
+  * AutoCAD
+  * Ansys
+  * FluidSim
+  * 3D Printing
+
+* Electronics
+  * ATmega8
+  * Raspberry Pi
+  * Nucleo
+  * Arduino
+  * Micro:bit
+  * 8085 MPU
+  * NI MultiSim
+  * Eagle
+
+* Others
+  * Adobe (Photoshop, Illustrator, Flash, Premiere)
+  * Microsoft Office (Word, Excel, PowerPoint)
+
+* Languages
+  * English (Fluent)
+  * French (Intermediate A2)
+  * Spanish (Intermediate A2)
+  * German (Elementary A1)
+  * Hindi (Native)
+
 
 Publications
 ======
