@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "SolidWorks For Beginners"
 collection: teaching
-type: "Undergraduate course"
+type: "Workshop"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Manipal Academy of Higher Education, Engineers Without Borders"
 date: 2014-01-01
 location: "City, Country"
 ---
