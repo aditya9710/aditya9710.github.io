@@ -17,25 +17,20 @@ Education
 
 Work experience
 ======
-* Robotics Engineer at Miko
-  * Mumbai, India: April – August 2021
-  * Simulated Robot Motion, RGB Controller, Display, ToF modules of the two product versions of an autonomous social robot on Webots
-  * Implemented PID control and Odometry on the robot 
-  * Added modules and maintained a Java-based utility software
+* Robotics Engineer at Miko, April – August 2021
 
-* Junior Robotics Engineer																							  
-  * BaseApp Systems
-  * Delhi, India: Mar - Apr 2021
-  * Explored Navigation Stack in ROS running on Raspberry Pi
-  * Prepared test guided path designs for Autonomous Guided Vehicles in warehouse environment
-  * Implemented an SMTP Server
+* Junior Robotics Engineer at BaseApp Systems, Mar - Apr 2021
 
-* Visiting Research Assistant (& Scientific Collaborator) at École Polytechnique Fédérale de Lausanne (& University of Applied Sciences and Arts of Southern Switzerland)
-  * Lausanne, Switzerland: Sep 2019 - Aug 2020
-  * Developed a Computer Vision-based tangible programming platform 
-  * Created an inexpensive Maker-based Educational Robot
-  * Designed & analyzed experimental studies, published multiple scientific papers
-  
+* Visiting Research Assistant (& Scientific Collaborator) at Mobots Group of École Polytechnique Fédérale de Lausanne (& University of Applied Sciences and Arts of Southern Switzerland), Sep 2019 - Aug 2021
+
+* Intern at Vehicle Inspection Department of Maruti Suzuki India, Jun – July, 2018 
+
+* Product Development Intern at Seelen HealhTech, Feb – Dec, 2017
+
+* Intern at Oil & Natural Gas Corporation of India, Dec, 2017
+
+* Intern at Air India Engineering, Jun – July, 2017
+
 Skills
 ======
 * Robotics:
@@ -113,4 +108,4 @@ Service and leadership
 * Management Head for Mars Rover Manipal, Manipal
   * Team ranked 8th position at the intennational University Rover Challenge
 * Team Lead for Rehabilitation Exoskeleton Project
-  * Awarded funding at National & State showcases.
+  * Awarded funding at National & State showcases
