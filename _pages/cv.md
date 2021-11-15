@@ -103,7 +103,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Leadership
 ======
 * Management Head for Mars Rover Manipal, Manipal
   * Team ranked 8th position at the intennational University Rover Challenge
