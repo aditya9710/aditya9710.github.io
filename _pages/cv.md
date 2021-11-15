@@ -17,27 +17,24 @@ Education
 
 Work experience
 ======
-* Robotics Engineer
-  * Miko 
+* Robotics Engineer at Miko
   * Mumbai, India: April – August 2021
-    * Simulated Robot Motion, RGB Controller, Display, ToF modules of the two product versions of an autonomous social robot on Webots
-    * Implemented PID control and Odometry on the robot 
-    * Added modules and maintained a Java-based utility software
+  * Simulated Robot Motion, RGB Controller, Display, ToF modules of the two product versions of an autonomous social robot on Webots
+  * Implemented PID control and Odometry on the robot 
+  * Added modules and maintained a Java-based utility software
 
 * Junior Robotics Engineer																							  
-* BaseApp Systems
+  * BaseApp Systems
   * Delhi, India: Mar - Apr 2021
-  * Startup for Embedded Systems & Warehouse Robotics
-    * Explored Navigation Stack in ROS running on Raspberry Pi
-    * Prepared test guided path designs for Autonomous Guided Vehicles in warehouse environment
-    * Implemented an SMTP Server
+  * Explored Navigation Stack in ROS running on Raspberry Pi
+  * Prepared test guided path designs for Autonomous Guided Vehicles in warehouse environment
+  * Implemented an SMTP Server
 
-* Visiting Research Assistant & Scientific Collaborator
-  * École Polytechnique Fédérale de Lausanne & University of Applied Sciences and Arts of Southern Switzerland
+* Visiting Research Assistant (& Scientific Collaborator) at École Polytechnique Fédérale de Lausanne (& University of Applied Sciences and Arts of Southern Switzerland)
   * Lausanne, Switzerland: Sep 2019 - Aug 2020
-    * Developed a Computer Vision-based tangible programming platform 
-    * Created an inexpensive Maker-based Educational Robot
-    * Designed & analyzed experimental studies, published multiple scientific papers
+  * Developed a Computer Vision-based tangible programming platform 
+  * Created an inexpensive Maker-based Educational Robot
+  * Designed & analyzed experimental studies, published multiple scientific papers
   
 Skills
 ======
@@ -99,11 +96,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -113,4 +110,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Management Head for Mars Rover Manipal, Manipal
+  * Team ranked 8th position at the intennational University Rover Challenge
+* Team Lead for Rehabilitation Exoskeleton Project
+  * Awarded funding at National & State showcases.
