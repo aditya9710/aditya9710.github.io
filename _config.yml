@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aditya Mehrotra"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Aditya Mehrotra"
 description              : &description "MSc Robotics Student"
