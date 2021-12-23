@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hey! I’m Aditya, a grad at the Worcester Polytechnic Institute. I’ll be graduating in May 2023 with a Masters of Science in Robotics Engineering. I possess a strong experience in development projects in a wide variety of applications. This came significantly from working with fast-paced start-ups, public sector companies, international research labs and student teams on biomedical rehabilitation, aviation, automobile, educational, social, industrial and warehouse robotics industries.
+Hey! I’m Aditya, a student at the Worcester Polytechnic Institute. I’ll be graduating in May 2023 with a Masters of Science in Robotics Engineering. I possess a strong experience in development projects in a wide variety of applications. This came significantly from working with fast-paced start-ups, public sector companies, international research labs and student teams on biomedical rehabilitation, aviation, automobile, educational, social, industrial and warehouse robotics industries.
 
 I’m currently seeking internship opportunities for Summer 2022 with the goal of gaining a deeper insight into scaling prototypes into viable products. Outside of work and school, I enjoy watching movies, hiking and have also performed imporvisation acts internationally in house full shows.
