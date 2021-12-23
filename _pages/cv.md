@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 For a PDF, click [here](https://github.com/aditya9710/aditya9710.github.io/blob/master/files/AdityaMehrotra_CurriculumVitae.pdf)
 
 Education
