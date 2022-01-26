@@ -19,6 +19,8 @@ Education
 
 Work experience
 ======
+* Graduate Research Assistant at Boston Scientific, Jan 2022 – Present
+
 * Robotics Engineer at Miko, April – August 2021
 
 * Junior Robotics Engineer at BaseApp Systems, Mar - Apr 2021
@@ -43,6 +45,8 @@ Skills
   *  Sci-Kit Learn
   *  Webots
   *  Blender
+  *  Gazebo
+  *  RViz
   *  CoppeliaSim
   *  Unity 3D
 
@@ -53,8 +57,6 @@ Skills
   * C#
   * C
   * Git
-  * Visual Basic
-  * HTML
 
 * Engineering
   * Fusion 360
