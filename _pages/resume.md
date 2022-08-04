@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For a PDF, click [here](https://aditya9710.github.io/files/AdityaMehrotra_CurriculumVitae.pdf)
+For a PDF, click [here](https://aditya9710.github.io/files/AdityaMehrotra_CV.pdf)
 
 Education
 ======
