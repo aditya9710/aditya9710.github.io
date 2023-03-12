@@ -19,7 +19,11 @@ Education
 
 Work experience
 ======
-* Graduate Research Assistant at Boston Scientific, Jan 2022 – Present
+* Perception SDE Co-op at Amazon Robotics, Jan 2023 – Present
+
+* AI Software Intern at MathWorks, May – Aug 2022
+
+* Graduate Research Assistant at Boston Scientific, Jan – May, 2022
 
 * Robotics Engineer at Miko, April – August 2021
 
