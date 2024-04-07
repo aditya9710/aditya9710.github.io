@@ -19,7 +19,9 @@ Education
 
 Work experience
 ======
-* Perception SDE Co-op at Amazon Robotics, Jan 2023 – Present
+* Perception SDE at Berkshire Grey, Jan 2024 – Present
+
+* Perception SDE Co-op at Amazon Robotics, Jan – Sept 2023
 
 * AI Software Intern at MathWorks, May – Aug 2022
 
@@ -41,56 +43,17 @@ Work experience
 
 Skills
 ======
-* Robotics:
-  *  ROS
-  *  OpenCV
-  *  Matlab
-  *  Linux Operating System
-  *  Sci-Kit Learn
-  *  Webots
-  *  Blender
-  *  Gazebo
-  *  RViz
-  *  CoppeliaSim
-  *  Unity 3D
+* Robotics: OpenCV, ROS/ROS2, Matlab, Ubuntu, Sci-Kit Learn, Webots, Blender, Gazebo, RViz, CoppeliaSim, Unity 3D
 
-* Programming Languages
-  * C++
-  * Python
-  * Java
-  * C#
-  * C
-  * Git
+* Programming Languages: C++, Python, Java, C#, C, Git
 
-* Engineering
-  * Fusion 360
-  * SolidWorks
-  * CATIA
-  * AutoCAD
-  * Ansys
-  * FluidSim
-  * 3D Printing
+* Engineering: Fusion 360, SolidWorks, CATIA, AutoCAD, Ansys, FluidSim, 3D Printing
 
-* Electronics
-  * ATmega8
-  * Raspberry Pi
-  * Nucleo
-  * Arduino
-  * Micro:bit
-  * 8085 MPU
-  * NI MultiSim
-  * Eagle
+* Electronics: ATmega8, Raspberry Pi, Nucleo, Arduino, Micro:bit, 8085 MPU, NI MultiSim, Eagle
 
-* Others
-  * Adobe (Photoshop, Illustrator, Flash, Premiere)
-  * Microsoft Office (Word, Excel, PowerPoint)
+* Others: Adobe Photoshop, Illustrator, Flash, Premiere, Microsoft Office (Word, Excel, PowerPoint)
 
-* Languages
-  * English (Fluent)
-  * French (Intermediate A2)
-  * Spanish (Intermediate A2)
-  * German (Elementary A1)
-  * Hindi (Native)
+* Languages: English (Fluent), French (Intermediate A2), Spanish (Intermediate A2), German (Elementary A1), Hindi (Native)
 
 
 Publications
